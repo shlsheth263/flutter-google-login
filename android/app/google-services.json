@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "100116369758",
+    "firebase_url": "https://assets-bills.firebaseio.com",
+    "project_id": "assets-bills",
+    "storage_bucket": "assets-bills.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100116369758:android:24bb1a9af7fe0a2d10ffcf",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100116369758-p05lkm9sndkht2avk7t86jqqoli9dun6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQIeAXNWBsBF373RohaiWzvcrU9FDi_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100116369758-p05lkm9sndkht2avk7t86jqqoli9dun6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100116369758-723j440870e30aor37ine5j06o9i461s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xyz123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
